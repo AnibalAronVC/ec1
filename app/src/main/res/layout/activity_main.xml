@@ -23,7 +23,7 @@
         android:fontFamily="cursive"
         android:text="@string/heaader_title"
         android:textAlignment="center"
-        android:textColor="@color/black"
+        android:textColor="@color/white"
         android:textSize="30sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="@+id/welcomeImage"
